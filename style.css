@@ -114,3 +114,23 @@ iframe {
 	max-width: 560px;
 	width: 100%;
 }
+
+.card {
+	border: 1px solid black;
+	max-width: 400px;
+	height: auto;
+}
+
+h2 {
+	background-color: #dddddd;
+}
+
+.price {
+	font-size: 30px;
+}
+
+.select-btn {
+	background-color: #f1c40e;
+	padding: 10px 20px;
+	font-size: 16px;
+}
